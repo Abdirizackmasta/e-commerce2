@@ -1,6 +1,6 @@
 import React from "react";
 import styles from './CSS/LoginSignup.module.css'
-import { FaGoogle,FaApple } from "react-icons/fa";
+// import { FaGoogle,FaApple } from "react-icons/fa";
 
 function LoginSignup() {
   return <div className={styles.LoginSignup}>
