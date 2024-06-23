@@ -2,7 +2,7 @@
     width: 87%;
     height: 60vh;
     display: flex;
-    margin: auto;
+    margin: 0 auto;
     padding: 40px 120px;
     /* margin: 150px; */
     background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
@@ -89,7 +89,7 @@
 @media(max-width: 1024px) {
     .offers {
         padding: 60px;
-        margin: 80px 0;
+        margin: 80px auto;
         height: 40vh;
     }
 
@@ -120,7 +120,7 @@
 
 @media(max-width: 800px) {
     .offers {
-        margin: 60px 0;
+        margin: 60px auto;
         height: 30vh;
     }
 

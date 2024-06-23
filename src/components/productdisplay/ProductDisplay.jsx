@@ -32,7 +32,7 @@ function ProductDisplay({product}) {
                     <div className={styles.product_dispay_old_prices}>{product.old_price}</div>
                     <div className={styles.product_dispay_new_prices}>{product.new_price}</div>
                 </div>
-                <div>
+                <div className={styles.productDisplay_description}>
                     A lightweight, usually knitted, pullover shirts, close-fitting and with 
                     around neckline and short sleeves worn as undershirt or outer garment. 
                 </div>
