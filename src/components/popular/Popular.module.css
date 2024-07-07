@@ -1,6 +1,8 @@
 .popular {
     display: flex;
     align-items: center;
+    justify-content: center;
+    padding: 40px 0;
     flex-direction: column;
     gap: 10px;
     margin: 40px auto;

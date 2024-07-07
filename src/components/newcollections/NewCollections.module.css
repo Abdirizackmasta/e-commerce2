@@ -5,6 +5,7 @@
     justify-content: center;
     height: 90vh;
     margin: auto;
+    margin-top: 30px;
 }
 
 .head {
@@ -12,6 +13,7 @@
     font-size: 60px;
     font-weight: 600;
     text-align: center;
+    margin-top: 100px;
 }
 
 .hr {
@@ -27,7 +29,7 @@
     flex-wrap: wrap;
     gap: 20px;
     margin-top: 50px;
-    padding: 40px 0;
+    padding: 20px;
     justify-content: center;
     /* display: flex;
     align-items: center;
