@@ -4,6 +4,10 @@
     margin-bottom: 60px;
     padding: 50px 0;
 }
+.error{
+    color: red;
+    font-size: 13px;
+}
 .Login_container{
    margin: 0 auto;
    box-shadow: 0 0 10px 3px rgb(224, 221, 221);
@@ -79,7 +83,7 @@
     display: block;
     width: 100%;
     border: none;
-    background: linear-gradient(180deg, #ffe1f0, #1c1b1b22 60%);
+    background: linear-gradient(180deg, #c46e99, #1c1b1b22 60%);
     border-radius: 10px;
     color: white;
     font-weight: 600;
